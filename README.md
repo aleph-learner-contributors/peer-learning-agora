@@ -7,7 +7,7 @@ GitHub Pages로 배포한 게임을 서로 플레이하고, **직접 관찰한 �
 > **이 활동은 전원 통과입니다.**
 > 게임에 점수나 순위를 매기는 대신, 서로의 시도에서 배울 점을 발견합니다. 게임의 완성도로 합격과 불합격을 나누지는 않지만, 리뷰와 기록, 다음 사람에게 알려주기까지 함께 마무리합니다.
 
-[리뷰 요청하기](https://github.com/aleph-learner-contributors/peer-learning-agora/issues/new) · [활동 이슈 보기](https://github.com/aleph-learner-contributors/peer-learning-agora/issues) · [Projects](https://github.com/aleph-learner-contributors/peer-learning-agora/projects) · [ALEPH 학습 환경 피드백](https://github.com/aleph-learner-contributors/aleph-feedback/issues)
+[리뷰 요청하기](https://github.com/aleph-learner-contributors/peer-learning-agora/issues/new) · [활동 이슈 보기](https://github.com/aleph-learner-contributors/peer-learning-agora/issues) · [ALEPH Feedback Board](https://github.com/orgs/aleph-learner-contributors/projects/1) · [ALEPH 학습 환경 피드백](https://github.com/aleph-learner-contributors/aleph-feedback/issues)
 
 ---
 
@@ -19,7 +19,7 @@ GitHub Pages로 배포한 게임을 서로 플레이하고, **직접 관찰한 �
 4. 강사가 지정한 동료와 시작 시각을 확인하고, 서로 **30분씩** 게임을 살펴봅니다.
 5. 각 게임의 이슈에 피드백을 남긴 뒤, **Assignee를 bookseal로 돌려주고 Review로 옮깁니다.**
 
-> 전용 Project와 학생 권한 설정은 수업 시작 전에 강사가 준비합니다. 보드가 없거나 담당자·상태를 바꿀 수 없다면, 임의로 다른 보드를 사용하지 말고 강사에게 알려주세요.
+> 이 활동은 기존 조직 Project [ALEPH Feedback Board](https://github.com/orgs/aleph-learner-contributors/projects/1)를 사용합니다. 누구나 볼 수 있는 공개 Project이며, 조직 멤버는 항목과 상태를 편집할 수 있도록 Write 권한이 설정되어 있습니다. 조직 초대를 아직 수락하지 않았다면 수락한 뒤 이용하세요. 보드가 보이지 않거나 담당자·상태를 바꿀 수 없다면 임의로 다른 보드를 사용하지 말고 강사에게 알려주세요.
 
 ## 하나의 이슈, 하나의 게임
 

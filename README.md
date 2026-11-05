@@ -26,7 +26,7 @@ GitHub Pages로 배포한 게임을 서로 플레이하고, **직접 관찰한 �
 | 백지석 | @Bjsandy119 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | 정우철 | @wjddncjf | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | 전창권 | @jcg-luck07 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
-| 동딱 (GitHub 프로필 표시명) | @Dong-DDack | [GitHub 프로필](https://github.com/Dong-DDack) |
+| 김동오 | @Dong-DDack | 강사 확인 |
 | 정인석 | @inseok5971 | 강사 확인 |
 | 김도연 | @newpy15 | [공개 포트폴리오](https://github.com/newpy15/newpy15.github.io) |
 | 최지의 | @JIeeeUI | [공개 포트폴리오](https://github.com/JIeeeUI/my-portfolio) |

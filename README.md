@@ -15,9 +15,17 @@ GitHub Pages로 배포한 게임을 서로 플레이하고, **직접 관찰한 �
 
 1. 내 게임의 **GitHub Pages 주소와 조작법**을 준비합니다.
 2. 내 이름과 게임 이름으로 **리뷰 요청 Issue**를 만듭니다.
-3. 강사가 안내한 Project의 **Todo**에 추가하고, **Assignee를 bookseal로 지정**합니다.
-4. 강사가 지정한 동료와 시작 시각을 확인하고, 서로 **30분씩** 게임을 살펴봅니다.
-5. 각 게임의 이슈에 피드백을 남긴 뒤, **Assignee를 bookseal로 돌려주고 Review로 옮깁니다.**
+3. Issue 작성 화면의 **Projects → Edit Projects**에서 **ALEPH Feedback Board**를 선택합니다. 새 이슈는 자동으로 **요청 접수**에 들어갑니다.
+4. Assignee를 **bookseal**로 지정합니다. 강사가 요청을 검토하고 동료와 시작 시각을 배정한 뒤 **Todo**로 옮깁니다.
+5. 실제 시작 시각에 **In Progress**로 옮기고, 서로 **30분씩** 게임을 살펴봅니다.
+6. 각 게임의 이슈에 피드백을 남긴 뒤, **Assignee를 bookseal로 돌려주고 Review로 옮깁니다.**
+
+### Issue를 Project에 연결하는 방법
+
+1. 이 저장소에서 **New issue**를 눌러 리뷰 요청을 작성합니다.
+2. 작성 화면의 **Projects → Edit Projects**에서 **ALEPH Feedback Board**를 선택합니다.
+3. Issue를 만들면 공유 Project의 **요청 접수**에 자동으로 추가됩니다.
+4. 연결 여부는 Issue의 활동 기록과 Project 보드의 카드로 확인할 수 있습니다. 이미 만든 Issue라면 Issue 페이지에서 **Projects → Edit Projects**를 눌러 같은 Project를 추가합니다.
 
 > 이 활동은 기존 조직 Project [ALEPH Feedback Board](https://github.com/orgs/aleph-learner-contributors/projects/1)를 사용합니다. 누구나 볼 수 있는 공개 Project이며, 조직 멤버는 항목과 상태를 편집할 수 있도록 Write 권한이 설정되어 있습니다. 조직 초대를 아직 수락하지 않았다면 수락한 뒤 이용하세요. 보드가 보이지 않거나 담당자·상태를 바꿀 수 없다면 임의로 다른 보드를 사용하지 말고 강사에게 알려주세요.
 
@@ -35,7 +43,7 @@ GitHub Pages로 배포한 게임을 서로 플레이하고, **직접 관찰한 �
 
 ### 1. A가 자기 게임의 리뷰를 요청합니다
 
-A는 아래 양식으로 이슈를 만들고 Project의 **Todo**에 추가합니다. Assignee는 **bookseal**로 지정합니다.
+A는 아래 양식으로 Issue를 만들고 작성 화면의 **Projects**에서 **ALEPH Feedback Board**를 선택합니다. Issue를 만들면 **요청 접수**에 자동으로 들어갑니다. Assignee는 **bookseal**로 지정합니다.
 
 **제목:** [리뷰 요청] 이름 · 게임 이름
 
@@ -53,7 +61,7 @@ A는 아래 양식으로 이슈를 만들고 Project의 **Todo**에 추가합니
 
 ## 요청 확인
 - [ ] 게임 주소가 열리고 플레이할 수 있는지 확인했습니다.
-- [ ] 강사가 안내한 Project의 Todo에 추가했습니다.
+- [ ] ALEPH Feedback Board에 추가했고 요청 접수에 들어간 것을 확인했습니다.
 - [ ] Assignee를 bookseal로 지정했습니다.
 ```
 
@@ -61,7 +69,7 @@ A는 아래 양식으로 이슈를 만들고 Project의 **Todo**에 추가합니
 
 강사는 A의 이슈에 **평가자, 시작 시각, 장소**를 댓글로 남기고, Assignee를 **bookseal → B**로 바꿉니다.
 
-시작 시각을 확인한 뒤, 실제 리뷰를 시작할 때 Project 상태를 **In Progress**로 옮깁니다. 일정이 맞지 않으면 시작 전에 강사에게 알려주세요.
+요청 검토와 배정이 끝나면 Project 상태를 **요청 접수 → Todo**로 옮깁니다. 실제 리뷰를 시작할 때는 **In Progress**로 옮깁니다. 일정이 맞지 않으면 시작 전에 강사에게 알려주세요.
 
 ### 3. B가 A의 게임을 30분 동안 살펴봅니다
 
@@ -83,7 +91,7 @@ A는 게임과 제작 의도를 설명하고, B는 직접 플레이하며 질문
 - Project에 이슈를 추가하고 상태를 바꾸는 방법
 - Assignee를 지정하고 댓글을 남기는 방법
 
-**A가 대신 작성하지 않고, B가 직접 조작합니다.** B의 새 이슈도 우선 **Todo / Assignee: bookseal**로 요청합니다. 강사가 A를 평가자로 지정하고 시작 시각을 안내합니다.
+**A가 대신 작성하지 않고, B가 직접 조작합니다.** B의 새 Issue도 작성 화면의 **Projects**에서 같은 Project를 선택해 **요청 접수 / Assignee: bookseal**로 요청합니다. 강사가 A를 평가자로 지정하고 시작 시각을 안내한 뒤, 준비된 요청을 **Todo**로 옮깁니다.
 
 ### 5. 역할을 바꾸어 A가 B의 게임을 30분 동안 살펴봅니다
 
@@ -100,7 +108,7 @@ A는 게임과 제작 의도를 설명하고, B는 직접 플레이하며 질문
 
 먼저 리뷰를 받은 학생은 다음 학생에게 GitHub 사용법을 알려주는 과정도 마무리합니다. 강사가 활동 기록을 확인한 뒤 **Done**으로 옮기고 이슈를 닫습니다. 강사의 확인 전에는 학생이 이슈를 닫지 않습니다.
 
-**상태의 흐름:** Todo → In Progress → Review → Done
+**상태의 흐름:** 요청 접수 → Todo → In Progress → Review → Done
 
 ---
 

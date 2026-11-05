@@ -13,7 +13,6 @@ GitHub Pages로 배포한 게임을 서로 플레이하고, **직접 관찰한 �
 
 | 이름 또는 프로필 표시명 | GitHub 계정 이름 | 확인 근거 |
 | --- | --- | --- |
-| 공해성 | @gsg920 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | 김명제 | @kimmj1234 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | 김민석 | @ILB72 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | 김용석 | @dydtjr2626 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |

@@ -7,6 +7,22 @@ GitHub Pages로 배포한 게임을 서로 플레이하고, **직접 관찰한 �
 > **이 활동은 전원 통과입니다.**
 > 게임에 점수나 순위를 매기는 대신, 서로의 시도에서 배울 점을 발견합니다. 게임의 완성도로 합격과 불합격을 나누지는 않지만, 리뷰와 기록, 다음 사람에게 알려주기까지 함께 마무리합니다.
 
+## Learner 명단
+
+| 성명 | GitHub 계정 이름 |
+|---|---|
+| 공해성 | @DonRaegun |
+| 김명제 | @kimmj1234 |
+| 김민석 | @ILB72 |
+| 김용석 | @dydtjr2626 |
+| 김하늘 | @khn0916 |
+| 박수빈 | @subinhappy777-hub |
+| 백지석 | @Bjsandy119 |
+| 전창권 | @JCG-0707 |
+| 조동준 | @qpsxh80 |
+| 조정진 | @Jin050310 |
+| 한희근 | @huigeun6011-prog |
+
 [리뷰 요청하기](https://github.com/aleph-learner-contributors/peer-learning-agora/issues/new) · [활동 이슈 보기](https://github.com/aleph-learner-contributors/peer-learning-agora/issues) · [ALEPH Feedback Board](https://github.com/orgs/aleph-learner-contributors/projects/1) · [ALEPH 학습 환경 피드백](https://github.com/aleph-learner-contributors/aleph-feedback/issues)
 
 ---
